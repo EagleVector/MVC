@@ -1,1 +1,3 @@
 # MVC
+
+Model <-- Controller <-- View
