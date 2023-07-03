@@ -1,3 +1,12 @@
 
 1688127483184 : ::1 : GET : /users
 1688127483899 : ::1 : GET : /favicon.ico
+1688357944518 : ::1 : GET : /users
+1688357958634 : ::1 : GET : /
+1688357969655 : ::1 : GET : /api/users
+1688358015414 : ::1 : GET : /api/users
+1688358301277 : ::1 : POST : /api/users
+1688358365126 : ::1 : POST : /api/users
+1688358412784 : ::1 : PATCH : /api/users/64a24ddd18af67ece59c53bf
+1688358448181 : ::1 : PATCH : /api/users/64a24ddd18af67ece59c53bf
+1688358484119 : ::1 : DELETE : /api/users/64a24ddd18af67ece59c53bf
